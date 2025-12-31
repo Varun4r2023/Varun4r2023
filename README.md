@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Data analytics projects involving real-world datasets, focusing on data cleaning, exploratory data analysis, and interactive dashboards using Python, SQL, Excel, and Power BI.<br><br>👯 I’m looking to collaborate on<br>Data analysis, business intelligence, and beginner-to-intermediate machine learning projects that involve extracting insights, building dashboards, or solving practical business problems.<br><br>🤝 I’m looking for help with<br>Improving end-to-end analytics workflows, real-world SQL optimization, and best practices for presenting insights to stakeholders and recruiters.<br><br>🌱 I’m currently learning<br>Advanced SQL, statistics for data analysis, Power BI DAX, and applying machine learning models to business-focused analytics problems.<br><br>💬 Ask me about<br>Data cleaning, EDA, Python for data analysis, Power BI dashboards, machine learning fundamentals, and deploying ML models using FastAPI.<br><br>⚡ Fun fact<br>I started with AI and machine learning and discovered that turning raw data into clear business insights is just as exciting as building models.
+🔭 I’m currently working on<br>
+Data analytics projects involving real-world datasets, focusing on data cleaning, exploratory data analysis, and interactive dashboards using Python, SQL, Excel, and Power BI.<br>
+👯 I’m looking to collaborate on<br>
+Data analysis, business intelligence, and beginner-to-intermediate machine learning projects that involve extracting insights, building dashboards, or solving practical business problems.<br>
+🤝 I’m looking for help with<br>
+Improving end-to-end analytics workflows, real-world SQL optimization, and best practices for presenting insights to stakeholders and recruiters.<br>
+🌱 I’m currently learning<br>
+Advanced SQL, statistics for data analysis, Power BI DAX, and applying machine learning models to business-focused analytics problems.<br>
+💬 Ask me about<br>
+Data cleaning, EDA, Python for data analysis, Power BI dashboards, machine learning fundamentals, and deploying ML models using FastAPI.<br>
+⚡ Fun fact<br>
+I started with AI and machine learning and discovered that turning raw data into clear business insights is just as exciting as building models.
+
 
 
 ## 🌐 Socials:
